@@ -76,7 +76,7 @@
 
 ---
 
-Profilimi ziyaret ettiğin için teşekkür ederim!## 
+Profilimi ziyaret ettiğin için teşekkür ederim! 
 
 <!--
 **emiruzz/emiruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
