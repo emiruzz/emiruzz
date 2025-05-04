@@ -78,6 +78,7 @@
 
 Profilimi ziyaret ettiğin için teşekkür ederim! 
 
+![GitHub Snake](https://raw.githubusercontent.com/<kullaniciAdin>/snk/output/github-contribution-grid-snake.svg)
 <!--
 **emiruzz/emiruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
