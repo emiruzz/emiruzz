@@ -15,7 +15,6 @@ eme<h1 align="center">Hoşgeldin, ben Emir Uz!</h1>
 ### Hakkımda
 
 - C# ve SQL kullanarak projeler geliştiriyorum.
-- Unity ile 2D/3D oyun geliştirmeye ilgi duyuyorum ve bu alanda kendimi bireysel olarak geliştiriyorum.
 - Öğrenmeye, araştırmaya ve yazılımla çözüm üretmeye devam ediyorum.
 - Takım çalışmalarına açığım ve aktif projelerde görev almaya hazırım.
 
@@ -41,7 +40,6 @@ eme<h1 align="center">Hoşgeldin, ben Emir Uz!</h1>
   <img src="https://img.shields.io/badge/Entity Framework-68217A?style=flat-square" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
 ---
