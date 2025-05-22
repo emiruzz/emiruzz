@@ -63,7 +63,7 @@
 
 ### Bana Ulaşın
 
-[![Gmail](https://img.shields.io/badge/Gmail-emiruz.yzl@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emiruz.yzl@gmail.com)
+Mail: [emiruz.yzl@gmail.com](mailto:emiruz.yzl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emir%20Uz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emir-uz-301076345)
 
 ---
