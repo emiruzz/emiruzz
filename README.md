@@ -64,7 +64,7 @@
 ### Bana Ulaşın
 
 - **E-posta**: emiruz.yzl@gmail.com  
-- **LinkedIn**: [https://linkedin.com/in/emiruz](https://www.linkedin.com/in/emir-uz-301076345/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emir%20Uz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emir-uz-301076345)
 
 ---
 
