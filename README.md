@@ -63,7 +63,7 @@
 
 ### Bana Ulaşın
 
-Mail: [emiruz.yzl@gmail.com](mailto:emiruz.yzl@gmail.com)
+Mail: [emiruz.yzl@gmail.com](mailto:emiruz.yzl@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emir%20Uz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emir-uz-301076345)
 
 ---
