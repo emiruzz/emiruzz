@@ -31,6 +31,7 @@
 
 ### Kullandığım Teknolojiler
 
+#### Backend & Desktop
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows Forms-0078D6?style=flat-square&logo=windows&logoColor=white" />
@@ -42,6 +43,9 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-0078D6?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
+#### Web Teknolojileri
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 ---
 
 <p align="center">
