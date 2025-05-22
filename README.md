@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Entity Framework Core-68217A?style=flat-square" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-0078D6?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
 ---
