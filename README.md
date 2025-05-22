@@ -13,10 +13,10 @@
 
 ### Hakkımda
 
-- C# ve SQL kullanarak projeler geliştiriyorum.
+- C#, SQL ve Entity Framework Core kullanarak projeler geliştiriyorum.
+- Web tarafında HTML ve CSS ile arayüzler tasarlıyor, responsive yapılar geliştiriyorum.
 - Öğrenmeye, araştırmaya ve yazılımla çözüm üretmeye devam ediyorum.
-- Takım çalışmalarına açığım ve aktif projelerde görev almaya hazırım.
-
+- Öğrenmeye ve yazılım odaklı çözüm üretmeye devam ediyorum. Takım çalışmasına ve açık kaynak projelere açığım.
 ---
 
 ### İlgi Alanlarım
@@ -26,6 +26,7 @@
 - **Entity Framework Core** – Code First & DB First yapıları  
 - **Katmanlı Mimari** – Temiz ve ölçeklenebilir yapı prensipleri  
 - **ASP.NET Core** – Temelleri öğreniyorum, Web API & MVC sırada
+- **HTML & CSS** – Sayfa yapısı, stillendirme, responsive deneyimler  
 
 ---
 
