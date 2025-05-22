@@ -1,6 +1,5 @@
 <h1 align="center">Hoşgeldin, ben Emir Uz!</h1>
 <h3 align="center">Junior Full Stack Developer | C# & SQL | Masaüstü ve Web Uygulamaları</h3>
----
 
 ### Eğitim & Sertifikalar
 
@@ -14,7 +13,6 @@
 - Web tarafında HTML ve CSS ile arayüzler tasarlıyor, responsive yapılar geliştiriyorum.
 - Öğrenmeye, araştırmaya ve yazılımla çözüm üretmeye devam ediyorum.
 - Öğrenmeye ve yazılım odaklı çözüm üretmeye devam ediyorum. Takım çalışmasına ve açık kaynak projelere açığım.
----
 
 ### İlgi Alanlarım
 
@@ -25,7 +23,6 @@
 - **ASP.NET Core** – Temelleri öğreniyorum, Web API & MVC sırada
 - **HTML & CSS** – Sayfa yapısı, stillendirme, responsive deneyimler  
 
----
 
 ### Kullandığım Teknolojiler
 
@@ -46,7 +43,6 @@
   <img src="https://komarev.com/ghpvc/?username=emiruzz&label=Ziyaretçi%20Sayısı&color=blue&style=flat" alt="emiruzz" />
 </p>
 
----
 
 ### GitHub İstatistiklerim
 
