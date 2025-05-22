@@ -32,16 +32,13 @@
 ### Kullandığım Teknolojiler
 
 #### Backend & Desktop
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows Forms-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity Framework Core-68217A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-0078D6?style=flat-square&logo=windows&logoColor=white" />
-</p>
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-EntityFramework-512BD4?style=flat)
+![Windows Forms](https://img.shields.io/badge/-WinForms-0078D4?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 #### Web Teknolojileri
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
