@@ -41,8 +41,8 @@
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 #### Web Teknolojileri
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emiruzz&label=Ziyaretçi%20Sayısı&color=blue&style=flat" alt="emiruzz" />
