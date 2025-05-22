@@ -1,7 +1,6 @@
 <h1 align="center">Hoşgeldin, ben Emir Uz!</h1>
 <p align="center">
   Junior Full Stack Developer | C# & SQL | Masaüstü ve Web Uygulamalar <br>
-  Gerçek hayat problemlerine yazılım çözümleri geliştiriyorum.
 </p>
 
 ---
@@ -35,7 +34,7 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows Forms-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity Framework Core-68217A?style=flat-square" />
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
