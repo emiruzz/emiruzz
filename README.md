@@ -22,7 +22,7 @@
 - **Katmanlı Mimari** – Temiz ve ölçeklenebilir yapı prensipleri  
 - **ASP.NET Core MVC** – Controller-View-Model yapısıyla CRUD ve form işlemleri
 - **HTML & CSS** – Sayfa yapısı, stillendirme, responsive deneyimler  
-
+- **JavaScript** – DOM işlemleri, etkileşimli web bileşenleri, event handling
 
 ### Kullandığım Teknolojiler
 
