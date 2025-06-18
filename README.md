@@ -4,7 +4,7 @@
 ### Eğitim & Sertifikalar
 
 - Ufuk Üniversitesi - Bilgisayar Programcılığı
-- Ankara Üniversitesi - Elktronik Ticaret ve Yönetimi
+- Ankara Üniversitesi - Elektronik Ticaret ve Yönetimi
 - Bilge Adam Boost - Full Stack .NET Devepoler
 
 ### Hakkımda
