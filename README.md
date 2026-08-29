@@ -1,5 +1,5 @@
 <h1 align="center">Hoşgeldin, ben Emir Uz!</h1>
-<h3 align="center">Junior Full Stack Developer | C# & SQL | Masaüstü ve Web Uygulamaları</h3>
+<h3 align="center">Full Stack Developer | C# & SQL | Masaüstü ve Web Uygulamaları</h3>
 
 ### Eğitim & Sertifikalar
 
